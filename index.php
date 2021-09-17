@@ -94,8 +94,8 @@ if($_REQUEST)
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-8">
-                    <div>
-                        <table class="table table-hover border">
+                    <div class="table-responsive">
+                        <table class="table table-striped table-hover border">
                             <tr>
                                 <td>Id</td>
                                 <td>Name</td>
